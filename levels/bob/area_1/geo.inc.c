@@ -41,7 +41,6 @@ const GeoLayout bob_area_1_geo[] = {
 		GEO_TRANSLATE_NODE_WITH_DL(LAYER_TRANSPARENT, 2572, 2484, -3191, bob_dl_shadow_006_mesh_layer_5),
 		GEO_TRANSLATE_NODE_WITH_DL(LAYER_TRANSPARENT, -657, 2484, -5589, bob_dl_shadow_007_mesh_layer_5),
 		GEO_TRANSLATE_NODE_WITH_DL(LAYER_TRANSPARENT, -2121, 2484, -6785, bob_dl_shadow_008_mesh_layer_5),
-		GEO_TRANSLATE_ROTATE_WITH_DL(LAYER_OPAQUE, -2627, 4430, -759, -90, 0, 0, bob_dl_star_statue_mesh_layer_1),
 		GEO_TRANSLATE_NODE_WITH_DL(LAYER_OPAQUE, 6783, -2681, 13074, bob_dl_tower_mesh_layer_1),
 		GEO_TRANSLATE_NODE_WITH_DL(LAYER_OPAQUE, 31, -2681, -16535, bob_dl_tower_001_mesh_layer_1),
 		GEO_TRANSLATE_NODE_WITH_DL(LAYER_OPAQUE, -13676, -2681, 13099, bob_dl_tower_002_mesh_layer_1),
