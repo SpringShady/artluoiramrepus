@@ -30,3 +30,8 @@
 #include "src/s2d_engine/s2d_config.h"
 #include FONT_C_FILE
 #endif
+
+#include "luigi/model.inc.c"
+#include "wario/model.inc.c"
+#include "sueli/model.inc.c"
+#include "shujin/model.inc.c"
